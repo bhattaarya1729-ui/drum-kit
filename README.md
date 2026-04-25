@@ -87,7 +87,7 @@ using your keyboard or mouse clicks — with a sleek glassmorphism UI.
 ## 👤 Author
 
 **Aarya Bhatt**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@bhattaarya1729](https://github.com/bhattaarya1729-ui)
 
 ---
 
